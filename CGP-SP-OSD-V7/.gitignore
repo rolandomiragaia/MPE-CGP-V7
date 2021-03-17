@@ -1,0 +1,12 @@
+bin/
+.projectile
+.idea/
+results/
+transcription/dataset/**
+transcription/classifiers/**
+others/
+*.m~
+tags
+tags*
+transcription/classifiers-pure/
+transcription/record/
